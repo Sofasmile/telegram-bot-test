@@ -1,0 +1,72 @@
+[
+  {
+    "query": "/start",
+    "slug": "start_bot_command",
+    "reply": "Привіт, це підтримка Mate academy. Обери питання зі списку або напиши свої питання і ми з радістю відповімо:",
+    "isQuestion": false,
+    "isMainMenu": false
+  },
+  {
+    "query": "Задати питання оператору",
+    "slug": "ask_question_to_operator",
+    "reply": "Напиши своє питання нижче, в полі для вводу повідомлень \u2B07 \nОператор обов'язково з тобою зв'яжеться:)",
+    "isQuestion": true,
+    "isMainMenu": true
+  },
+  {
+    "query": "Назад",
+    "slug": "back_from_submenu_button",
+    "reply": "Обери питання зі списку або напиши нам напряму:",
+    "isQuestion": false,
+    "isMainMenu": false
+  },
+  {
+    "query": "Часті запитання",
+    "slug": "faq_button",
+    "reply": "Обери питання: ",
+    "isQuestion": false,
+    "isMainMenu": false
+  },
+  {
+    "query": "Можна почитати договір? \uD83D\uDCC4",
+    "slug": "read_contract_button",
+    "reply": "Лови - https://drive.google.com/file/d/154B9yyEFXcJCPRTPJ3GvN8S_fxL9o_Oy/view?usp=sharing \uD83D\uDE09",
+    "isQuestion": true,
+    "isMainMenu": true
+  },
+  {
+    "query": "Що таке хвиля набору? \uD83C\uDF0A",
+    "slug": "wave_set_button",
+    "reply": "Кожні 10 днів ми відбираємо найкращих кандидатів (так звана хвиля набору) \uD83D\uDE0E\nЧасто відбувається ситуація, коли група зібрана за кілька тижнів до старту навчання. \nТому рекомендую якомога швидше подавати заявку на https://mate.academy/  та проходити відбір \uD83C\uDFC3\u200D♂️",
+    "isQuestion": true,
+    "isMainMenu": true
+  },
+  {
+    "query": "І скільки коштує навчання? \uD83D\uDC40",
+    "slug": "cost_of_education_button",
+    "reply": "Оплата лише після працевлаштування в ІТ - 17% від чистої заробітної плати щомісячно протягом 2 років \uD83D\uDE09",
+    "isQuestion": true,
+    "isMainMenu": false
+  },
+  {
+    "query": "А якщо я піду з курсів - я вам щось винен? \uD83E\uDD14",
+    "slug": "payment_after_deduction_button",
+    "reply": "Якщо ти достроково залишиш Mate academy і працевлаштуєшся в ІТ, у тебе виникне зобов'язання виплачувати рівнопропорційну частину до часу твого навчання. Тобто якщо ти провчився 1 місяць з 4-х, то виплачувати кошти треба буде пів року замість 2-х років.\n\nТакож у тебе буде 2 тижні від початку навчання, щоб відмовитись від Договору без подальших зобов'язань, якщо зрозумієш, що наші курси тобі не підійшли \uD83D\uDE42",
+    "isQuestion": true,
+    "isMainMenu": false
+  },
+  {
+    "query": "Хочу поєднувати роботу/навчання в універі з фултайм навчанням в МА \uD83D\uDE0F",
+    "slug": "combine_work_and_study_button",
+    "reply": "Поєднувати фултайм навчання у нас з іншим навчанням або роботою не вийде через інтенсивність - просто не встигнеш за програмою \uD83D\uDE15\nІ тут ми пропонуємо тобі два варіанти: можеш звільнити свій графік заради навчання і подальшого працевлаштування в ІТ і тоді проходити відбір на фултайм курс або приєднатись до курсу Frontend part time, де можна навчатися у власному темпі в зручний для тебе час - https://mate.academy/ru/courses/frontend-parttime  \uD83D\uDE09",
+    "isQuestion": true,
+    "isMainMenu": false
+  },
+  {
+    "query": "Який необхідний рівень англійської? \uD83D\uDE42",
+    "slug": "problem_with_english_button",
+    "reply": "Рекомендую спілкуватись з друзями/знайомими/відвідувати speaking clubs для прокачки розмовної англійської. Також можеш скористатися цими ресурсами - https://www.duolingo.com/learn та https://www.bbc.co.uk/learningenglish/english/basic-grammar/  \nОдним з етапів відбору є коротке інтерв'ю, під час якого важливо показати базові знання розмовної англійської мови \uD83D\uDE0E\uD83C\uDDEC\uD83C\uDDE7\nМи очікуємо рівень хоча б Pre-Intermediate - можливість спілкуватись на базові теми.",
+    "isQuestion": true,
+    "isMainMenu": false
+  }
+]
